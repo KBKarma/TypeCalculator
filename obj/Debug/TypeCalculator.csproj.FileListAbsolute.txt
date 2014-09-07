@@ -1,0 +1,9 @@
+C:\Users\KBKarma\Documents\Visual Studio 2013\Projects\TypeCalculator\TypeCalculator\bin\Debug\TypeCalculator.exe.config
+C:\Users\KBKarma\Documents\Visual Studio 2013\Projects\TypeCalculator\TypeCalculator\bin\Debug\TypeCalculator.exe
+C:\Users\KBKarma\Documents\Visual Studio 2013\Projects\TypeCalculator\TypeCalculator\bin\Debug\TypeCalculator.pdb
+C:\Users\KBKarma\Documents\Visual Studio 2013\Projects\TypeCalculator\TypeCalculator\obj\Debug\TypeCalculator.Form1.resources
+C:\Users\KBKarma\Documents\Visual Studio 2013\Projects\TypeCalculator\TypeCalculator\obj\Debug\TypeCalculator.Properties.Resources.resources
+C:\Users\KBKarma\Documents\Visual Studio 2013\Projects\TypeCalculator\TypeCalculator\obj\Debug\TypeCalculator.csproj.GenerateResource.Cache
+C:\Users\KBKarma\Documents\Visual Studio 2013\Projects\TypeCalculator\TypeCalculator\obj\Debug\TypeCalculator.exe
+C:\Users\KBKarma\Documents\Visual Studio 2013\Projects\TypeCalculator\TypeCalculator\obj\Debug\TypeCalculator.pdb
+C:\Users\KBKarma\Documents\Visual Studio 2013\Projects\TypeCalculator\TypeCalculator\obj\Debug\TypeCalculator.csprojResolveAssemblyReference.cache
